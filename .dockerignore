@@ -1,0 +1,17 @@
+.git
+.gitignore
+README.md
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+logs/
+data/
+temp/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
